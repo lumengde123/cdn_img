@@ -1,2 +1,2 @@
-# blog_cdn_img
+# cdn_img
 PicGo+Github+ CDN
